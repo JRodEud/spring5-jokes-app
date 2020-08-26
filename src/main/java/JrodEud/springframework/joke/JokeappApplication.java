@@ -1,4 +1,4 @@
-package JrodEud.springframework.joke.jokeapp;
+package JrodEud.springframework.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
